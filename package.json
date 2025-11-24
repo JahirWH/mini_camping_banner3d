@@ -1,5 +1,31 @@
 {
   "devDependencies": {
     "vite": "^7.2.4"
-  }
+  },
+  "dependencies": {
+    "node": "^25.2.1",
+    "three": "^0.181.2",
+    "treejs": "^0.6.2"
+  },
+  "name": "mini_camping_banner3d",
+  "version": "1.0.0",
+  "description": "mini camper banner for web with treejs white",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JahirWH/mini_camping_banner3d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JahirWH/mini_camping_banner3d/issues"
+  },
+  "homepage": "https://github.com/JahirWH/mini_camping_banner3d#readme"
 }
